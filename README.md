@@ -4,7 +4,11 @@
 
 **A free 3D dinosaur tycoon game for kids, built with Three.js and AI-assisted development.**
 
-[Download on the App Store](https://apps.apple.com/us/app/dinomino/id6809052147) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.kodnuke.dinotycoon)
+[Download on the App Store](https://apps.apple.com/us/app/dinomino/id6809052147) · [Get it on Google Play](https://play.google.com/store/apps/details?id=com.kodnuke.dinotycoon) · [Watch gameplay](https://www.youtube.com/watch?v=713pwMCIAD8)
+
+## Gameplay video
+
+[![Dinomino gameplay video](https://img.youtube.com/vi/713pwMCIAD8/hqdefault.jpg)](https://www.youtube.com/watch?v=713pwMCIAD8)
 
 ## Screenshots
 
@@ -32,6 +36,8 @@ Dinomino started as a gift for my little cousin, who loves dinosaurs. I am not a
 4. Repeat
 
 The AI handled 3D scenes, game logic and UI. The hard parts were keeping save/load compatible as features grew, mobile performance, and store submission.
+
+Full story: [I Built a 3D Game for My Little Cousin With AI](https://medium.com/@kodnuke/i-built-a-3d-game-for-my-little-cousin-with-ai-its-now-on-the-app-store-afd78fd71d64)
 
 ## Tech
 
